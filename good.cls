@@ -4,6 +4,7 @@ public class good{
     String accountName5 = queriedAccount.Name;
     if(accountName.equals(accountName5))
     {
+        
     }
    
 }
